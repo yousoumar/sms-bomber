@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SmsBomber</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="sms_bomber">Sms Bomber</string>
+    <string name="message_bomber">Message à envoyer</string>
+    <string name="message_bomber_number">Nombre d\'envois</string>
+    <string name="make_bomber">Envoyer</string>
+    <string name="message_bomber_phone_number">A quel numéro ?</string>
+</resources>
